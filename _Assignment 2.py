@@ -20,6 +20,7 @@ for i in range(2000,3201):#for loop iterates through each value given in range
 
 # In[43]:
 #Firstname and lastname are taken as input from user using input()
+#using print, the lastname and firstname are printed
 
 First_name = input("Enter your Firstname:")
 Last_name = input("Enter your Lastname:")
@@ -30,7 +31,7 @@ print(Last_name,First_name)
 
 # In[45]:
 
-
+#math is imported to use pi value and volume of sphere is obtained in print statement
 import math
 print("The volume of a sphere with diameter 12cm is:",(4/3)*math.pi*(12/2))
 
