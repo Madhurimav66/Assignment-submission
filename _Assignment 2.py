@@ -19,7 +19,7 @@ for i in range(2000,3201):#for loop iterates through each value given in range
 # # Assignment 2:2
 
 # In[43]:
-
+#Firstname and lastname are taken as input from user using input()
 
 First_name = input("Enter your Firstname:")
 Last_name = input("Enter your Lastname:")
